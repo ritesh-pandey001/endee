@@ -1,0 +1,46 @@
+# AI Legal Research Assistant - Requirements
+# Production-grade dependencies for legal document analysis with Endee Vector Database
+
+# FastAPI and web server
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.6.0
+pydantic-settings==2.1.0
+python-multipart==0.0.6
+
+# Google Gemini for LLM and embeddings
+google-generativeai==0.8.6
+
+# Endee Vector Database (Official SDK)
+# Note: endee is optional - system will use in-memory fallback if not available
+# endee  # Commented out due to numpy version conflict with streamlit
+
+# HTTP client for API communication
+requests==2.31.0
+
+# Frontend
+streamlit==1.31.0
+
+# NLP and search
+rank-bm25==0.2.2
+numpy<2,>=1.19.3  # Version compatible with streamlit
+
+# Document processing
+PyPDF2==3.0.1
+python-docx==1.1.0
+
+# Database
+aiosqlite==0.19.0
+
+# Utilities
+python-dotenv==1.0.0
+
+# Development and testing
+pytest==7.4.4
+pytest-asyncio==0.23.3
+httpx>=0.24.0  # Compatible with endee SDK
+black==23.12.1
+flake8==7.0.0
+
+# Production deployment
+gunicorn==21.2.0
