@@ -137,7 +137,7 @@ Built for the **Endee.io Internship Evaluation** - A production-ready legal rese
 
 ### Upload Documents Interface
 
-![Upload UI](screenshots/upload.png)
+<img width="794" height="583" alt="Screenshot 2026-03-01 133158" src="https://github.com/user-attachments/assets/1a28c04c-d111-4cd3-9728-dbf1837a6c0f" />
 
 *Clean, modern interface for uploading legal documents with drag-and-drop support*
 
@@ -145,7 +145,8 @@ Built for the **Endee.io Internship Evaluation** - A production-ready legal rese
 
 ### Ask Questions & Get AI Answers
 
-![Query UI](screenshots/query.png)
+<img width="1293" height="709" alt="Screenshot 2026-03-01 134416" src="https://github.com/user-attachments/assets/786bdcf3-cfea-4c56-8cb3-acefefe797ed" />
+<img width="1337" height="621" alt="Screenshot 2026-03-01 134434" src="https://github.com/user-attachments/assets/7e33912d-cf52-41b7-a035-2c6c7ec44943" />
 
 *AI-powered question answering with context from uploaded documents*
 
@@ -153,7 +154,7 @@ Built for the **Endee.io Internship Evaluation** - A production-ready legal rese
 
 ### Search Results with Citations
 
-![Results UI](screenshots/results.png)
+<img width="1262" height="928" alt="Screenshot 2026-03-01 134506" src="https://github.com/user-attachments/assets/30b1b541-8698-4d01-89ab-a655409316e4" />
 
 *Detailed source citations with relevance scores and document references*
 
@@ -161,7 +162,7 @@ Built for the **Endee.io Internship Evaluation** - A production-ready legal rese
 
 ### Chat History
 
-![Chat History](screenshots/history.png)
+<img width="1407" height="892" alt="Screenshot 2026-03-01 134522" src="https://github.com/user-attachments/assets/43688826-d2ec-48b8-975f-29ad612ecb8c" />
 
 *Complete conversation tracking with expandable question/answer pairs*
 
